@@ -1,5 +1,5 @@
 ✨ *Olá! eu sou o Mateus* ✨
-- 🧰 Hoje trabalho com Back-end
+- 🧰 Full-stack
 - 💻 Programador
 - 📚 Estudando Java | Python | HTML | CSS | Javascript
 
