@@ -1,5 +1,5 @@
 ✨ *Olá! eu sou o Mateus* ✨
-- 🧰 Full-stack
+- 🧰 Front - end
 - 💻 Little Programmer
 - 📚 Estudando Java | Flutter | HTML | CSS | Javascript
 
