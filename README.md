@@ -1,4 +1,5 @@
-✨ *Olá! eu sou o Mateus* ✨
+✨ *Olá! eu sou o Mateus* ✨ | ✨ *Hi! I´m Mateus* ✨
+-*Bem Vindo(a) ao Meu Mundo*- 💻🌎
 - 🧰 FullStack
 - 💻 Little Programmer
 - 📚 Estudando Java | Angular | HTML | CSS | Javascript
