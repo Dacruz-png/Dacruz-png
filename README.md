@@ -4,7 +4,7 @@
 
 - 🧰 FullStack
 - 💻 Little Programmer
-- 📚 Estudando Java | Angular | HTML | CSS | Javascript
+- 📚 Opening Java | Angular | HTML | CSS | Javascript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dacruz-png&show_icons=true&theme=radical)
 ##
