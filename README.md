@@ -1,6 +1,6 @@
 ✨ *Olá! eu sou o Mateus* ✨ | ✨ *Hi! I´m Mateus* ✨
 
-  *_Bem Vindo(a) ao Meu Mundo_* 💻🌎
+  *_Welcome to my world_* 💻🌎
 
 - 🧰 Dev Mobile
 - 💻 Little Programmer
