@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dacruz-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Dacruz-SQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Dacruz-dados" height="50" width="40" src="https://icons8.com.br/icon/13654/microsoft-excel.sgv">
+
  
 </div>
   
