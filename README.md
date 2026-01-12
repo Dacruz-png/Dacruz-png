@@ -2,11 +2,11 @@
 
   *_Welcome to my world_* 💻🌎
 
-- 🧰 Dev Mobile
-- 💻 Little Programmer
-- 📚 Opening Kotlin | React | HTML | CSS | Javascript
+- 🧰 Data Analytics
+- 💻 Young analyst
+- 📚 Getting to know - Pythom | SQL | Excel 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dacruz-png&show_icons=true&theme=radical)
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Dacruz-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
